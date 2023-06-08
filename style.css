@@ -137,9 +137,6 @@ body{
 }
 
 @media (max-width: 1200px){
-    body{
-        background: radial-gradient(#000000, #ded7d7)
-    }
     .cabecalho{
         width:auto;
         padding: 7%;
