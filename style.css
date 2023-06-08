@@ -158,8 +158,8 @@ body{
     }
 
     .acesso__link{
-        padding-right: 4px;
-        width:auto;   
+        padding-right: 8px;
+        width: 60vw;   
     }
 
 }
