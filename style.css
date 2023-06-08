@@ -136,9 +136,9 @@ body{
     font-family: var(--fonte-secundaria);
 }
 
-@media (max-width: 600px){
+@media (max-width: 1200px){
     .cabecalho{
-        padding: 7%;
+        padding: 20px;
     }
 
     .cabecalho__menu{
@@ -146,7 +146,7 @@ body{
     }
     .apresentacao{
         flex-direction: column-reverse;
-        padding: 5%;
+        padding: 15px;
     }
 
     .conteudo__apresentacao{
