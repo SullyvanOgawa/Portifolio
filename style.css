@@ -138,15 +138,18 @@ body{
 
 @media (max-width: 1200px){
     .cabecalho{
-        padding: 20px;
+        width:auto;
+        padding: 7%;
     }
 
     .cabecalho__menu{
         justify-content: center;
+        gap: 20px
     }
     .apresentacao{
         flex-direction: column-reverse;
-        padding: 15px;
+        gap: 25px;
+        padding: 5%;
     }
 
     .conteudo__apresentacao{
