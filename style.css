@@ -159,9 +159,10 @@ body{
 
     .acesso__link{
         width:auto;
-        font-weight: auto;
-        padding: auto;
-        margin: auto;
+        gap: 8px;
+        font-weight: 400;
+
+       
     }
 
 }
