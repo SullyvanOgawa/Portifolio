@@ -148,6 +148,7 @@ body{
     }
     .apresentacao{
         flex-direction: column-reverse;
+        align-items: center;
         gap: 25px;
         padding: 5%;
     }
