@@ -159,6 +159,9 @@ body{
 
     .acesso__link{
         width:auto;
+        font-weight: auto;
+        padding: auto;
+        margin: auto;
     }
 
 }
