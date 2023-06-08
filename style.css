@@ -158,10 +158,8 @@ body{
     }
 
     .acesso__link{
-        gap: 8px;
-        width:auto;
-
-       
+        font-size: 1rem;
+        width:auto;   
     }
 
 }
