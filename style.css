@@ -157,6 +157,14 @@ body{
         width: auto; 
     }
 
+    .titulo__apresentacao{
+        font-size: 1rem;
+    }
+    
+    .texto__apresentacao{
+        font-size: 0.8rem;
+    }
+    
     .acesso__link{
         padding-right: 8px;
         width: 60vw;   
