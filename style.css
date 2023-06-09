@@ -168,7 +168,7 @@ body{
     }
 
     .acesso__link{
-        font-size: 1rem;
+        font-size: 1.3rem;
         padding-right: 8px;
         width: 60vw;   
     }
@@ -178,7 +178,7 @@ body{
     }
 
     .rodape{
-        font-size:0.6rem;
+        font-size:0.9rem;
     }
 
 }
