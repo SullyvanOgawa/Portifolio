@@ -58,17 +58,17 @@ body{
     color: var(--cor-tercearia);
 }
 
-.titulo__apresentacao{
-    font-size: 2rem;
-    font-family: var(--fonte-primaria);
-    
-}
+    .titulo__apresentacao{
+        font-size: 2rem;
+        font-family: var(--fonte-primaria);
+        
+    }
 
-.texto__apresentacao{
-    font-size: 1.5rem;
-    font-family: var(--fonte-secundaria);
-    line-height: 1.8em;
-}
+    .texto__apresentacao{
+        font-size: 1.5rem;
+        font-family: var(--fonte-secundaria);
+        line-height: 1.8em;
+    }
 
 .link__subtitulo{
     font-family:var(--fonte-primaria);
@@ -155,6 +155,17 @@ body{
 
     .conteudo__apresentacao{
         width: auto; 
+    }
+
+    .titulo__apresentacao{
+        font-size: 1.1rem;
+        
+        
+    }
+    
+    .texto__apresentacao{
+        font-size: 0.6rem;
+        line-height: 1.5em;
     }
 
     .acesso__link{
