@@ -1,5 +1,5 @@
 # Portifolio
 ## Professores: Guilherme Lima e Rafaella Ballerini
 
-Este portifolio foi desenvolvido no curso da Alura HTML E CSS: TRABALHANDO COM RESPONSIVIDADE E PUBLICAÇÃO DE PROJETOS, com os professores .
+Este portifolio foi desenvolvido no curso da Alura HTML E CSS: HTML E CSS - AMBIENTES DE DESENVOLVIMENTO, ESTRUTURA DE ARQUIVOS E TAGS, HTML E CSS - CLASSES - POSICIONAMENTO E FLEXBOX, HTML E CSS -  CABEÇALHO, FOOTER E VARIÁVEIS CSS, TRABALHANDO COM RESPONSIVIDADE E PUBLICAÇÃO DE PROJETOS.
 
